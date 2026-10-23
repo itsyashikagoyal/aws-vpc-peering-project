@@ -13,6 +13,6 @@ This project demonstrates how to establish private network connectivity between 
 - Accessing private EC2 instances through a bastion host.
 - Troubleshooting network connectivity using ping and SSH.
 
-#Conclusion
+# Conclusion
 
 This project provided hands-on experience with AWS networking and private connectivity. It demonstrates how VPC Peering, route tables, security groups, and bastion-host access can be used together to enable controlled communication between resources deployed in separate VPCs
